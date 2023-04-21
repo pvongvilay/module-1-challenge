@@ -12,4 +12,5 @@ This is an appication that was made so that it follows accessibilty standards an
 
 ## Usage
 
-This is the deployed wepage of the site.
+This is the deployed webpage of the site.
+
