@@ -9,3 +9,8 @@ This is an appication that was made so that it follows accessibilty standards an
 - i built this project because it was asked that we meet accessibility standards.
 - it solves the problem that for different viewers of the webpage so that every one will be able to see this page.
 - i learned that you can build a webpage with semantic elements and non semantic elements and how they can differ.
+
+## Usage
+
+This is the deployed wepage of the site.
+ ![alt text] (assets/images/horiseon.png)
