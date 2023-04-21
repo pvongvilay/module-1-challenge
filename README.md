@@ -13,4 +13,3 @@ This is an appication that was made so that it follows accessibilty standards an
 ## Usage
 
 This is the deployed wepage of the site.
- ![alt text] (assets/images/horiseon.png)
