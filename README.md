@@ -13,3 +13,4 @@ This is an appication that was made so that it follows accessibilty standards an
 ## Usage
 
 This is the deployed wepage of the site.
+![horiseon](https://user-images.githubusercontent.com/127724262/233524179-9f540f62-5287-4b66-892e-ad6fb44d4d70.png)
