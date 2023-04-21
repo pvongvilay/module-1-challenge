@@ -13,4 +13,4 @@ This is an appication that was made so that it follows accessibilty standards an
 ## Usage
 
 This is the deployed wepage of the site.
- ![alt text] (assets/images/horiseon.png)
+![horiseon](https://user-images.githubusercontent.com/127724262/233523009-28592f2d-9318-4a31-9bae-7740a8636beb.png)
